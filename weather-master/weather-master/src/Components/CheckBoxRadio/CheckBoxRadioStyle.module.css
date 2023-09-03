@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.inner{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.current, .forecast{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+input{
+    cursor: pointer;
+}
+
+
+
+

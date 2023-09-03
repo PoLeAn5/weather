@@ -1,0 +1,22 @@
+.showParametr{
+    border: 2px solid blue;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: rgb(51, 210, 157);
+}
+
+.blockWeather{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.center{
+    text-align: center;
+}
